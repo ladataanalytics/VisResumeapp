@@ -17,7 +17,7 @@ VisualResume::VisualResume(
                   "Instructor"),
   titles.right = c("LinkedIn: https://www.linkedin.com/in/alfonsoberumen/",
                    "Personal e-mail: alfonso.berumen@gmail.com",
-                   "Education e-mail: alfonsberumen@g.ucla.edu"),
+                   "Education e-mail: alfonsoberumen@g.ucla.edu"),
   titles.left.cex = c(3,2,2),
   titles.right.cex = c(2, 1, 1, 1),
   events.cex = (1.5),
